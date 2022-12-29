@@ -1,0 +1,17 @@
+{
+    "name": "QUICRICX",
+    "description": "Displays the latest cricket news from Cricbuzz using RapidApi's Cricbuzz API",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "permissions": [
+        "activeTab"
+    ],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "img/logo128.png"
+    },
+    "icons": {
+        "128":"img/logo128.png",
+        "64":"img/logo64.png"
+    }
+}
