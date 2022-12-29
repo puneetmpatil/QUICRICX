@@ -1,6 +1,12 @@
 # QUICRICX
 A chrome extension which displays the latest cricket news
 
+## SCREENSHOTS
+<img src="screenshots/ExtensionTab.JPG" alt="Chrome extension screenshot">
+<img src="screenshots/1.JPG"/>
+<img src="screenshots/2.JPG"/>
+<img src="screenshots/3.JPG"/>
+
 ## Installation
 1. Clone the repository
 2. Sign in/up on <a href="https://rapidapi.com" target="_blank">Rapid API</a> and go <a href="https://rapidapi.com/cricketapilive/api/cricbuzz-cricket" target="_blank">here</a>
