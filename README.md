@@ -1,5 +1,5 @@
 # QUICRICX
-A chrome extension which displays the latest cricket news
+A chrome extension which displays the latest cricket news obtained from Cricbuzz using RapidAPI's Cricbuzz API
 
 ### <ins>Screenshots</ins>
 <img src="screenshots/image1.JPG" width="250"/><img src="screenshots/image2.JPG" width="250"/><img src="screenshots/image3.JPG" width="250"/>
