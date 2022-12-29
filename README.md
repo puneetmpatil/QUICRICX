@@ -2,7 +2,8 @@
 A chrome extension which displays the latest cricket news
 
 ## SCREENSHOTS
-<img src="screenshots/ExtensionTab.JPG" alt="Chrome extension screenshot"><img src="screenshots/image1.JPG" width="300"/><img src="screenshots/image2.JPG" width="300"/><img src="screenshots/image3.JPG" width="300"/>
+<img src="screenshots/image1.JPG" width="200"/><img src="screenshots/image2.JPG" width="200"/><img src="screenshots/image3.JPG" width="200"/>
+<img src="screenshots/ExtensionTab.JPG" alt="Chrome extension screenshot">
 
 ## Installation
 1. Clone the repository
